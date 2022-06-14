@@ -1,0 +1,45 @@
+,,
+Nro_Cuenta,Tipo,Nombre_Cuenta
+1111,Ingresos,Aporte propio en efectivo del candidato
+1112,Ingresos,Aporte propio en especies o servicios
+114,Ingresos,Aportes menores sin publicidad
+115,Ingresos,Aportes con Publicidad
+116,Ingresos,Aportes en dinero de Partidos Politicos
+121,Ingresos,Aportes en especies o servicios de terceros
+122,Ingresos,Aportes en especies o servicios de partidos politicos
+131,Ingresos,Financiamiento a partidos politicos
+132,Ingresos,Financiamiento a candidatos independientes
+141,Ingresos,Creditos con mandato
+142,Ingresos,Cesion de derecho a reembolso
+143,Ingresos,Reembolso de gastos electorales
+211,Gastos,Propaganda en medios de prensa escrito y digital
+212,Gastos,Propaganda en radioemisoras
+213,Gastos,Propaganda en redes sociales
+214,Gastos,Propaganda impresa y merchandising
+221,Gastos,Encuestas
+231,Gastos,Arriendo de inmuebles
+232,Gastos,Arriendo de vehiculos
+233,Gastos,Otros arriendos de bienes muebles o inmuebles (sede)
+241,Gastos,Servicios profesionales
+242,Gastos,Servicios remunerados de brigadistas
+243,Gastos,"Servicios basicos (luz, agua, telefono, etc.)"
+244,Gastos,Intereses devengados por Mandatos con Instituciones Financieras
+251,Gastos,"Gastos por desplazamiento (combustible, peajes, transporte privado)"
+252,Gastos,Transporte aereo
+253,Gastos,"Transporte publico terrestre (taxi, Uber, etc.)"
+254,Gastos,Transporte de implementos de propaganda
+261,Gastos,Gastos menores y frecuentes
+271,Gastos,Trabajo de voluntarios
+272,Gastos,Uso de inmuebles propios
+273,Gastos,Uso de vehiculos propios
+274,Gastos,Otros aportes de bienes propios
+275,Gastos,Uso de vehiculos de terceros
+276,Gastos,Uso de inmuebles de terceros
+277,Gastos,Otros aportes de bienes y servicios de terceros
+278,Gastos,Aporte de medios digitales y redes sociales
+279,Gastos,Aportes de servicios profesionales
+281,Gastos,Aportes en especies o servicios del Partido Politico
+291,Gastos,Aportes en especies o servicios a candidaturas
+292,Gastos,Aporte en dineros a candidaturas
+402,Gastos,Devolucion aportantes
+403,Gastos,Devolucion de aportes a partido politico
